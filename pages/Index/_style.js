@@ -1,6 +1,14 @@
 import styled from "styled-components"
 import { darken } from "polished"
 
+import React from "react"
+
+// import { Container } from './styles';
+
+export default function Index() {
+  return <div />
+}
+
 export const Container = styled.main`
   display: grid;
   grid-template-columns: 2fr 2fr 2fr;

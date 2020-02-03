@@ -1,5 +1,13 @@
 import styled from "styled-components"
 
+import React from "react"
+
+// import { Container } from './styles';
+
+export default function SideBar() {
+  return <div />
+}
+
 export const Container = styled.nav`
   background: #333;
   position: fixed;
