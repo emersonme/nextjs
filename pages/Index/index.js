@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react"
 import Layout from "../../components/_layout/default"
 
-import { Container } from "./styles"
+import { Container } from "./index.style"
 
 const Home = () => {
   return (
